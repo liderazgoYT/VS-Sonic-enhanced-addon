@@ -48,8 +48,8 @@ This project improves the Vs Sonic mod for Linux users with RGB keyboards by:
 | GONNA GETCHA | Purple #640064 | 80% | |
 | Friday Night Funkin': Rodentrap | Light Blue #00C8FF | 100% | |
 | WELCOME BACK | Bright Red #FF0000 | 100% | |
-| UH OH | Yellow #FFFF00 | 100% → 0% | **Fast fade** (30%/tick) |
-| SONIC | Light Blue #00B4FF | 0% → 100% | **Slow fade** (10%/tick, after UH OH) |
+| UH OH | Yellow → VERY fast fade | 100%→0% (~0.3s) |
+| SONIC (after UH OH) | Light Blue → SLOW fade | 0%→100% (~1.2s) |
 
 ### Fade Effects
 
