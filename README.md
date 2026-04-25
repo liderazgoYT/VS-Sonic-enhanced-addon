@@ -69,6 +69,9 @@ This project improves the Vs Sonic mod for Linux users with RGB keyboards by:
 ### Install Dependencies
 
 ```bash
+# Install all packages at once (do seperately if failed)
+sudo pacman -S openrgb xdotool wine python3
+
 # Install OpenRGB
 sudo pacman -S openrgb
 
@@ -77,6 +80,9 @@ sudo pacman -S xdotool
 
 # Install Wine (if not already)
 sudo pacman -S wine
+
+# Install python3
+sudo pacman -S python3
 ```
 
 ---
