@@ -1,3 +1,5 @@
+WARNING - THIS IS ONLY BUILT FOR LINUX DISTRIBUTIONS AT THE MOMENT, IT WONT WORK ON WINDOWS
+
 # OpenRGB Trinity Controller
 
 RGB lighting controller for Vs Sonic (Friday Night Funkin' mod) on Linux.
@@ -25,10 +27,9 @@ sudo pacman -S openrgb xdotool wine
 ## Quick Start
 
 ```bash
-# Clone or download this repo
-cd openrgb-trinity-controller
+# download the project
 
-# Make executable
+# Make executable (go to install path of "VS Rewrite: ROUND 2"
 chmod +x openrgb_trinity_controller.py
 
 # Run
